@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Di Shi Zhi Hui](https://sakamotokurome.github.io/posts/dishizhihui/)
+- [CSS教程](https://sakamotokurome.github.io/posts/css/)
 <!-- BLOG-POST-LIST:END -->
