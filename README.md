@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on 965
+- 🌱 I’m currently learning Three.js and Cesium.js
+- 💬 Ask me about CSS/JavaScript and React/Vue/Next.js/Nest.js and Linux/FreeBSD
+- ⚡ Fun fact: HomeLab
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Di Shi Zhi Hui](https://sakamotokurome.github.io/posts/dishizhihui/)
