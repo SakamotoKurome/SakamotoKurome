@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Di Shi Zhi Hui](https://blog.g7n3.me/posts/dishizhihui/)
-- [CSS教程](https://blog.g7n3.me/posts/css/)
+- [Di Shi Zhi Hui](https://blog.xn-xw.com/posts/dishizhihui/)
+- [CSS教程](https://blog.xn-xw.com/posts/css/)
 <!-- BLOG-POST-LIST:END -->
